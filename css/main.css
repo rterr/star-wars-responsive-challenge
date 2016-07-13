@@ -1,0 +1,35 @@
+main .row {
+  margin-bottom: 20px;
+}
+
+.box {
+  border:1px solid lightgray;
+  margin-bottom:20px;
+}
+
+.box img {
+  width:100%;
+}
+
+.card-text {
+  padding:20px;
+}
+
+.card-text h3{
+  margin:0;
+}
+
+.card-text p{
+  margin-bottom:0;
+}
+
+
+header {
+  background-color:orange;
+  padding:20px 0px;
+  margin-bottom:40px;
+}
+
+header h1 {
+  margin:0;
+}
